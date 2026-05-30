@@ -16,6 +16,7 @@ import org.springframework.web.bind.annotation.RestController;
 public class ActivityController {
     private ActivityService activityService;
 
+    //used for post data
     @PostMapping
     public ResponseEntity<ActivityResponse> trackActivity(@RequestBody ActivityRequest request){
         return ResponseEntity.ok(activityService.trackActivity(request));

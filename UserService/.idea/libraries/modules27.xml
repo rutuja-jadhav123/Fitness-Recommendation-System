@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="modules27">
+    <CLASSES>
+      <root url="jar://$APPLICATION_HOME_DIR$/plugins/editorconfig-plugin/lib/modules/intellij.editorconfig.frontend.split.jar!/" />
+      <root url="jar://$APPLICATION_HOME_DIR$/plugins/editorconfig-plugin/lib/modules/intellij.editorconfig.backend.jar!/" />
+      <root url="jar://$APPLICATION_HOME_DIR$/plugins/editorconfig-plugin/lib/modules/intellij.editorconfig.common.jar!/" />
+      <root url="jar://$APPLICATION_HOME_DIR$/plugins/editorconfig-plugin/lib/modules/intellij.editorconfig.frontend.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

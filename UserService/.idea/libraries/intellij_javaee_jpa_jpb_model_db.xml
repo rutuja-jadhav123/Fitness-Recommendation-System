@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="intellij.javaee.jpa.jpb.model.db">
+    <CLASSES>
+      <root url="jar://$APPLICATION_HOME_DIR$/plugins/JPA Model/lib/modules/intellij.javaee.jpa.jpb.model.db.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

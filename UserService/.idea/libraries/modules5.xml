@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="modules5">
+    <CLASSES>
+      <root url="jar://$APPLICATION_HOME_DIR$/plugins/terminal/lib/modules/intellij.terminal.frontend.split.jar!/" />
+      <root url="jar://$APPLICATION_HOME_DIR$/plugins/terminal/lib/modules/intellij.terminal.cloud.jar!/" />
+      <root url="jar://$APPLICATION_HOME_DIR$/plugins/terminal/lib/modules/intellij.terminal.frontend.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

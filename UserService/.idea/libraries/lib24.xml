@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="lib24">
+    <CLASSES>
+      <root url="jar://$APPLICATION_HOME_DIR$/plugins/gradle-plugin/lib/gradle-tooling-extension-impl.jar!/" />
+      <root url="jar://$APPLICATION_HOME_DIR$/plugins/gradle-plugin/lib/gradle-api-9.3.0.jar!/" />
+      <root url="jar://$APPLICATION_HOME_DIR$/plugins/gradle-plugin/lib/gradle-plugin.jar!/" />
+      <root url="jar://$APPLICATION_HOME_DIR$/plugins/gradle-plugin/lib/gradle-tooling-extension-api.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

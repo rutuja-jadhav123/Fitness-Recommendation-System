@@ -1,0 +1,14 @@
+<component name="libraryTable">
+  <library name="lib25">
+    <CLASSES>
+      <root url="jar://$APPLICATION_HOME_DIR$/plugins/mcpserver/lib/io.github.smiley4.schema.kenerator.serialization.jar!/" />
+      <root url="jar://$APPLICATION_HOME_DIR$/plugins/mcpserver/lib/mcpserver.jar!/" />
+      <root url="jar://$APPLICATION_HOME_DIR$/plugins/mcpserver/lib/toml4j.jar!/" />
+      <root url="jar://$APPLICATION_HOME_DIR$/plugins/mcpserver/lib/mcpserver-frontend.jar!/" />
+      <root url="jar://$APPLICATION_HOME_DIR$/plugins/mcpserver/lib/io.github.smiley4.schema.kenerator.core.jar!/" />
+      <root url="jar://$APPLICATION_HOME_DIR$/plugins/mcpserver/lib/io.github.smiley4.schema.kenerator.jsonschema.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

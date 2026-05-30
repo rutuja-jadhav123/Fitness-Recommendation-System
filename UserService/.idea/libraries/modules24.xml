@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="modules24">
+    <CLASSES>
+      <root url="jar://$APPLICATION_HOME_DIR$/plugins/angular-plugin/lib/modules/intellij.angular.backend.jar!/" />
+      <root url="jar://$APPLICATION_HOME_DIR$/plugins/angular-plugin/lib/modules/intellij.angular.tslint.jar!/" />
+      <root url="jar://$APPLICATION_HOME_DIR$/plugins/angular-plugin/lib/modules/intellij.angular.free.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="dfa-analysis-plugin">
+    <CLASSES>
+      <root url="jar://$APPLICATION_HOME_DIR$/plugins/dfa-analysis-plugin/lib/dfa-analysis-plugin.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

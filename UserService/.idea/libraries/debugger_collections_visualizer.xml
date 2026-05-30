@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="debugger-collections-visualizer">
+    <CLASSES>
+      <root url="jar://$APPLICATION_HOME_DIR$/plugins/debugger-collections-visualizer/lib/debugger-collections-visualizer.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

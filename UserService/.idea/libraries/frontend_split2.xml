@@ -1,0 +1,17 @@
+<component name="libraryTable">
+  <library name="frontend-split2">
+    <CLASSES>
+      <root url="jar://$APPLICATION_HOME_DIR$/plugins/cwm-plugin/lib/frontend-split/markdown-frontend-split.jar!/" />
+      <root url="jar://$APPLICATION_HOME_DIR$/plugins/cwm-plugin/lib/frontend-split/performance-testing-frontend-split.jar!/" />
+      <root url="jar://$APPLICATION_HOME_DIR$/plugins/cwm-plugin/lib/frontend-split/frontend-split.jar!/" />
+      <root url="jar://$APPLICATION_HOME_DIR$/plugins/cwm-plugin/lib/frontend-split/driver-frontend-split.jar!/" />
+      <root url="jar://$APPLICATION_HOME_DIR$/plugins/cwm-plugin/lib/frontend-split/frontend-base.jar!/" />
+      <root url="jar://$APPLICATION_HOME_DIR$/plugins/cwm-plugin/lib/frontend-split/frontend-split-startup.jar!/" />
+      <root url="jar://$APPLICATION_HOME_DIR$/plugins/cwm-plugin/lib/frontend-split/cwm-frontend.jar!/" />
+      <root url="jar://$APPLICATION_HOME_DIR$/plugins/cwm-plugin/lib/frontend-split/rd-client.jar!/" />
+      <root url="jar://$APPLICATION_HOME_DIR$/plugins/cwm-plugin/lib/frontend-split/cwm-connection-frontend.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

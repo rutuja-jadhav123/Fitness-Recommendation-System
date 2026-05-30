@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="lib41">
+    <CLASSES>
+      <root url="jar://$APPLICATION_HOME_DIR$/plugins/platform-ijent-impl/lib/platform-ijent-impl.jar!/" />
+      <root url="jar://$APPLICATION_HOME_DIR$/plugins/platform-ijent-impl/lib/google.protobuf.kotlin.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

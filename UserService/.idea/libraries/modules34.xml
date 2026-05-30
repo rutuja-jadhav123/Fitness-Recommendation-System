@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="modules34">
+    <CLASSES>
+      <root url="jar://$APPLICATION_HOME_DIR$/plugins/thymeleaf-plugin/lib/modules/intellij.thymeleaf.vue.jar!/" />
+      <root url="jar://$APPLICATION_HOME_DIR$/plugins/thymeleaf-plugin/lib/modules/intellij.thymeleaf.free.jar!/" />
+      <root url="jar://$APPLICATION_HOME_DIR$/plugins/thymeleaf-plugin/lib/modules/intellij.thymeleaf.spring.el.jar!/" />
+      <root url="jar://$APPLICATION_HOME_DIR$/plugins/thymeleaf-plugin/lib/modules/intellij.thymeleaf.spring.security.jar!/" />
+      <root url="jar://$APPLICATION_HOME_DIR$/plugins/thymeleaf-plugin/lib/modules/intellij.thymeleaf.paid.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

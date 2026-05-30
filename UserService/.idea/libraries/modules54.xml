@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="modules54">
+    <CLASSES>
+      <root url="jar://$APPLICATION_HOME_DIR$/plugins/grazie/lib/modules/intellij.grazie.java.jar!/" />
+      <root url="jar://$APPLICATION_HOME_DIR$/plugins/grazie/lib/modules/intellij.grazie.properties.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

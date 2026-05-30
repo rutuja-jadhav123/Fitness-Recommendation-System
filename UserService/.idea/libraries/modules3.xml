@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="modules3">
+    <CLASSES>
+      <root url="jar://$APPLICATION_HOME_DIR$/plugins/debugger-collections-visualizer/lib/modules/intellij.debugger.collections.visualizer.core.backend.jar!/" />
+      <root url="jar://$APPLICATION_HOME_DIR$/plugins/debugger-collections-visualizer/lib/modules/intellij.debugger.collections.visualizer.core.frontend.jar!/" />
+      <root url="jar://$APPLICATION_HOME_DIR$/plugins/debugger-collections-visualizer/lib/modules/intellij.debugger.collections.visualizer.jvm.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

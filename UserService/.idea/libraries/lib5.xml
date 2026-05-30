@@ -1,0 +1,20 @@
+<component name="libraryTable">
+  <library name="lib5">
+    <CLASSES>
+      <root url="jar://$APPLICATION_HOME_DIR$/plugins/jupyter-plugin/lib/jupyter-plugin.jar!/" />
+      <root url="jar://$APPLICATION_HOME_DIR$/plugins/jupyter-plugin/lib/openhtmltopdf-core-1.1.37.jar!/" />
+      <root url="jar://$APPLICATION_HOME_DIR$/plugins/jupyter-plugin/lib/de.rototor.pdfbox-graphics2d-3.0.5.jar!/" />
+      <root url="jar://$APPLICATION_HOME_DIR$/plugins/jupyter-plugin/lib/apache.pdfbox3.jar!/" />
+      <root url="jar://$APPLICATION_HOME_DIR$/plugins/jupyter-plugin/lib/openhtmltopdf-svg-support-1.1.37.jar!/" />
+      <root url="jar://$APPLICATION_HOME_DIR$/plugins/jupyter-plugin/lib/openhtmltopdf-rtl-support-1.1.37.jar!/" />
+      <root url="jar://$APPLICATION_HOME_DIR$/plugins/jupyter-plugin/lib/apache.xmpbox3.jar!/" />
+      <root url="jar://$APPLICATION_HOME_DIR$/plugins/jupyter-plugin/lib/jlatexmath-font-cyrillic-1.0.7.jar!/" />
+      <root url="jar://$APPLICATION_HOME_DIR$/plugins/jupyter-plugin/lib/jlatexmath-1.0.7.jar!/" />
+      <root url="jar://$APPLICATION_HOME_DIR$/plugins/jupyter-plugin/lib/openhtmltopdf-pdfbox-1.1.37.jar!/" />
+      <root url="jar://$APPLICATION_HOME_DIR$/plugins/jupyter-plugin/lib/icu4j-59.1.jar!/" />
+      <root url="jar://$APPLICATION_HOME_DIR$/plugins/jupyter-plugin/lib/jlatexmath-font-greek-1.0.7.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

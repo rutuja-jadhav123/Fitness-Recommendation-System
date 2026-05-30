@@ -1,0 +1,14 @@
+<component name="libraryTable">
+  <library name="lib9">
+    <CLASSES>
+      <root url="jar://$APPLICATION_HOME_DIR$/plugins/maven/lib/jetbrains.idea.maven.indexer.api.rt.jar!/" />
+      <root url="jar://$APPLICATION_HOME_DIR$/plugins/maven/lib/artifact-resolver-m31.jar!/" />
+      <root url="jar://$APPLICATION_HOME_DIR$/plugins/maven/lib/maven-jps.jar!/" />
+      <root url="jar://$APPLICATION_HOME_DIR$/plugins/maven/lib/plexus-archiver.jar!/" />
+      <root url="jar://$APPLICATION_HOME_DIR$/plugins/maven/lib/maven.jar!/" />
+      <root url="jar://$APPLICATION_HOME_DIR$/plugins/maven/lib/maven-server.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

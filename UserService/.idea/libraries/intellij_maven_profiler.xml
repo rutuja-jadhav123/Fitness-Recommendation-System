@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="intellij.maven.profiler">
+    <CLASSES>
+      <root url="jar://$APPLICATION_HOME_DIR$/plugins/maven/lib/modules/intellij.maven.profiler.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

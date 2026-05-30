@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$APPLICATION_HOME_DIR$/IntelliJ IDEA 2026.1.2.iml" filepath="$APPLICATION_HOME_DIR$/IntelliJ IDEA 2026.1.2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/UserService.iml" filepath="$PROJECT_DIR$/.idea/UserService.iml" />
+    </modules>
+  </component>
+</project>

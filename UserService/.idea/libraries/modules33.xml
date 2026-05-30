@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="modules33">
+    <CLASSES>
+      <root url="jar://$APPLICATION_HOME_DIR$/plugins/javaee-jsp-base-impl/lib/modules/intellij.javaee.jsp.copyright.jar!/" />
+      <root url="jar://$APPLICATION_HOME_DIR$/plugins/javaee-jsp-base-impl/lib/modules/intellij.javaee.jsp.appServers.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

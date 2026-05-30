@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="lib15">
+    <CLASSES>
+      <root url="jar://$APPLICATION_HOME_DIR$/plugins/JavaEE/lib/javaee-platform.jar!/" />
+      <root url="jar://$APPLICATION_HOME_DIR$/plugins/JavaEE/lib/jasper-v2-rt.jar!/" />
+      <root url="jar://$APPLICATION_HOME_DIR$/plugins/JavaEE/lib/javaee-rt.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

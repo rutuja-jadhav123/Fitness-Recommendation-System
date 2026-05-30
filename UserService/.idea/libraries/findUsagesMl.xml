@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="findUsagesMl">
+    <CLASSES>
+      <root url="jar://$APPLICATION_HOME_DIR$/plugins/findUsagesMl/lib/findUsagesMl.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

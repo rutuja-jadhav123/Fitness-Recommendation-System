@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="modules16">
+    <CLASSES>
+      <root url="jar://$APPLICATION_HOME_DIR$/plugins/properties/lib/modules/intellij.properties.backend.jar!/" />
+      <root url="jar://$APPLICATION_HOME_DIR$/plugins/properties/lib/modules/intellij.properties.backend.psi.jar!/" />
+      <root url="jar://$APPLICATION_HOME_DIR$/plugins/properties/lib/modules/intellij.properties.copyright.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

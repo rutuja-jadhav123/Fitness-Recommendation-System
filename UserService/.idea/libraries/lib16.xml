@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="lib16">
+    <CLASSES>
+      <root url="jar://$APPLICATION_HOME_DIR$/plugins/java-coverage/lib/jacoco.jar!/" />
+      <root url="jar://$APPLICATION_HOME_DIR$/plugins/java-coverage/lib/java-coverage.jar!/" />
+      <root url="jar://$APPLICATION_HOME_DIR$/plugins/java-coverage/lib/java-coverage-rt.jar!/" />
+      <root url="jar://$APPLICATION_HOME_DIR$/plugins/java-coverage/lib/coverage-report.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

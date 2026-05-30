@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="lib39">
+    <CLASSES>
+      <root url="jar://$APPLICATION_HOME_DIR$/plugins/android-gradle-declarative-lang-ide/lib/android-gradle-declarative-lang-ide.jar!/" />
+      <root url="jar://$APPLICATION_HOME_DIR$/plugins/android-gradle-declarative-lang-ide/lib/android-gradle-declarative-lang-ide-frontend.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

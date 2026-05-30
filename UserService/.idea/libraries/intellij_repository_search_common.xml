@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="intellij.repository.search.common">
+    <CLASSES>
+      <root url="jar://$APPLICATION_HOME_DIR$/plugins/repository-search/lib/modules/intellij.repository.search.common.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

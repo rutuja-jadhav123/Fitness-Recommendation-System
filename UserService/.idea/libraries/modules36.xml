@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="modules36">
+    <CLASSES>
+      <root url="jar://$APPLICATION_HOME_DIR$/plugins/gradle-plugin/lib/modules/intellij.gradle.properties.jar!/" />
+      <root url="jar://$APPLICATION_HOME_DIR$/plugins/gradle-plugin/lib/modules/intellij.gradle.completion.jar!/" />
+      <root url="jar://$APPLICATION_HOME_DIR$/plugins/gradle-plugin/lib/modules/intellij.gradle.kotlin.jar!/" />
+      <root url="jar://$APPLICATION_HOME_DIR$/plugins/gradle-plugin/lib/modules/intellij.gradle.toml.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

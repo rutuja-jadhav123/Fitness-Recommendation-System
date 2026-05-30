@@ -1,0 +1,14 @@
+<component name="libraryTable">
+  <library name="modules22">
+    <CLASSES>
+      <root url="jar://$APPLICATION_HOME_DIR$/plugins/liquibase/lib/modules/intellij.liquibase.core.jar!/" />
+      <root url="jar://$APPLICATION_HOME_DIR$/plugins/liquibase/lib/modules/intellij.liquibase.orm.jar!/" />
+      <root url="jar://$APPLICATION_HOME_DIR$/plugins/liquibase/lib/modules/intellij.liquibase.git.jar!/" />
+      <root url="jar://$APPLICATION_HOME_DIR$/plugins/liquibase/lib/modules/intellij.liquibase.jpa.jar!/" />
+      <root url="jar://$APPLICATION_HOME_DIR$/plugins/liquibase/lib/modules/intellij.liquibase.yaml.jpa.jar!/" />
+      <root url="jar://$APPLICATION_HOME_DIR$/plugins/liquibase/lib/modules/intellij.liquibase.yaml.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

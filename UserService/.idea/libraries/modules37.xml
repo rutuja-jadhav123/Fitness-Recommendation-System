@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="modules37">
+    <CLASSES>
+      <root url="jar://$APPLICATION_HOME_DIR$/plugins/markdown/lib/modules/intellij.markdown.frontend.jar!/" />
+      <root url="jar://$APPLICATION_HOME_DIR$/plugins/markdown/lib/modules/intellij.markdown.fenceInjection.jar!/" />
+      <root url="jar://$APPLICATION_HOME_DIR$/plugins/markdown/lib/modules/intellij.markdown.frontend.split.jar!/" />
+      <root url="jar://$APPLICATION_HOME_DIR$/plugins/markdown/lib/modules/intellij.markdown.backend.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

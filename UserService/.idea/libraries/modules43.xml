@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="modules43">
+    <CLASSES>
+      <root url="jar://$APPLICATION_HOME_DIR$/plugins/vcs-git/lib/modules/intellij.vcs.git.localHistory.jar!/" />
+      <root url="jar://$APPLICATION_HOME_DIR$/plugins/vcs-git/lib/modules/intellij.vcs.git.terminal.jar!/" />
+      <root url="jar://$APPLICATION_HOME_DIR$/plugins/vcs-git/lib/modules/intellij.vcs.git.frontend.jar!/" />
+      <root url="jar://$APPLICATION_HOME_DIR$/plugins/vcs-git/lib/modules/intellij.vcs.git.coverage.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

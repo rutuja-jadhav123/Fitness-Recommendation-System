@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="modules25">
+    <CLASSES>
+      <root url="jar://$APPLICATION_HOME_DIR$/plugins/javaFX/lib/modules/intellij.javaFX.jar!/" />
+      <root url="jar://$APPLICATION_HOME_DIR$/plugins/javaFX/lib/modules/intellij.javaFX.css.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

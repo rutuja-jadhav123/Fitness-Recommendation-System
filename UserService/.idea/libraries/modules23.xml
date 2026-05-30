@@ -1,0 +1,26 @@
+<component name="libraryTable">
+  <library name="modules23">
+    <CLASSES>
+      <root url="jar://$APPLICATION_HOME_DIR$/plugins/javascript-plugin/lib/modules/intellij.javascript.profiler.jar!/" />
+      <root url="jar://$APPLICATION_HOME_DIR$/plugins/javascript-plugin/lib/modules/intellij.javascript.newProject.jar!/" />
+      <root url="jar://$APPLICATION_HOME_DIR$/plugins/javascript-plugin/lib/modules/intellij.javascript.codeinsight.jar!/" />
+      <root url="jar://$APPLICATION_HOME_DIR$/plugins/javascript-plugin/lib/modules/intellij.javascript.frontend.jar!/" />
+      <root url="jar://$APPLICATION_HOME_DIR$/plugins/javascript-plugin/lib/modules/intellij.javascript.coverage.jar!/" />
+      <root url="jar://$APPLICATION_HOME_DIR$/plugins/javascript-plugin/lib/modules/intellij.javascript.featuresTrainer.jar!/" />
+      <root url="jar://$APPLICATION_HOME_DIR$/plugins/javascript-plugin/lib/modules/intellij.javascript.langInjection.jar!/" />
+      <root url="jar://$APPLICATION_HOME_DIR$/plugins/javascript-plugin/lib/modules/intellij.javascript.backend.diagrams.jar!/" />
+      <root url="jar://$APPLICATION_HOME_DIR$/plugins/javascript-plugin/lib/modules/intellij.javascript.duplicatesDetection.jar!/" />
+      <root url="jar://$APPLICATION_HOME_DIR$/plugins/javascript-plugin/lib/modules/intellij.javascript.terminal.jar!/" />
+      <root url="jar://$APPLICATION_HOME_DIR$/plugins/javascript-plugin/lib/modules/intellij.javascript.git4idea.jar!/" />
+      <root url="jar://$APPLICATION_HOME_DIR$/plugins/javascript-plugin/lib/modules/intellij.javascript.markdown.jar!/" />
+      <root url="jar://$APPLICATION_HOME_DIR$/plugins/javascript-plugin/lib/modules/intellij.javascript.ultimate.jar!/" />
+      <root url="jar://$APPLICATION_HOME_DIR$/plugins/javascript-plugin/lib/modules/intellij.javascript.performanceTesting.jar!/" />
+      <root url="jar://$APPLICATION_HOME_DIR$/plugins/javascript-plugin/lib/modules/intellij.javascript.completion.ml.jar!/" />
+      <root url="jar://$APPLICATION_HOME_DIR$/plugins/javascript-plugin/lib/modules/intellij.javascript.grazie.jar!/" />
+      <root url="jar://$APPLICATION_HOME_DIR$/plugins/javascript-plugin/lib/modules/intellij.javascript.copyright.jar!/" />
+      <root url="jar://$APPLICATION_HOME_DIR$/plugins/javascript-plugin/lib/modules/intellij.javascript.fileWatcher.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

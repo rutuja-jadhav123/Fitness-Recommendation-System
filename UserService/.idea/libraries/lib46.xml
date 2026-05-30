@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="lib46">
+    <CLASSES>
+      <root url="jar://$APPLICATION_HOME_DIR$/plugins/javascript-plugin/lib/completion-ranking-typescript.jar!/" />
+      <root url="jar://$APPLICATION_HOME_DIR$/plugins/javascript-plugin/lib/completion-ranking-js.jar!/" />
+      <root url="jar://$APPLICATION_HOME_DIR$/plugins/javascript-plugin/lib/javascript-plugin.jar!/" />
+      <root url="jar://$APPLICATION_HOME_DIR$/plugins/javascript-plugin/lib/semver4j.jar!/" />
+      <root url="jar://$APPLICATION_HOME_DIR$/plugins/javascript-plugin/lib/javascript-plugin-frontend.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

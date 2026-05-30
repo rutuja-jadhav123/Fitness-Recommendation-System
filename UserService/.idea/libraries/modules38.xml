@@ -1,0 +1,19 @@
+<component name="libraryTable">
+  <library name="modules38">
+    <CLASSES>
+      <root url="jar://$APPLICATION_HOME_DIR$/plugins/kotlin-jupyter-plugin/lib/modules/intellij.kotlin.jupyter.plots.jar!/" />
+      <root url="jar://$APPLICATION_HOME_DIR$/plugins/kotlin-jupyter-plugin/lib/modules/intellij.kotlin.jupyter.liveTemplates.jar!/" />
+      <root url="jar://$APPLICATION_HOME_DIR$/plugins/kotlin-jupyter-plugin/lib/modules/intellij.kotlin.jupyter.debug.jar!/" />
+      <root url="jar://$APPLICATION_HOME_DIR$/plugins/kotlin-jupyter-plugin/lib/modules/intellij.kotlin.jupyter.k2.jar!/" />
+      <root url="jar://$APPLICATION_HOME_DIR$/plugins/kotlin-jupyter-plugin/lib/modules/intellij.kotlin.jupyter.core.jar!/" />
+      <root url="jar://$APPLICATION_HOME_DIR$/plugins/kotlin-jupyter-plugin/lib/modules/intellij.kotlin.jupyter.performancePlugin.jar!/" />
+      <root url="jar://$APPLICATION_HOME_DIR$/plugins/kotlin-jupyter-plugin/lib/modules/intellij.kotlin.jupyter.buildSystems.gradle.jar!/" />
+      <root url="jar://$APPLICATION_HOME_DIR$/plugins/kotlin-jupyter-plugin/lib/modules/intellij.kotlin.jupyter.k1.jar!/" />
+      <root url="jar://$APPLICATION_HOME_DIR$/plugins/kotlin-jupyter-plugin/lib/modules/intellij.kotlin.jupyter.notekit.jar!/" />
+      <root url="jar://$APPLICATION_HOME_DIR$/plugins/kotlin-jupyter-plugin/lib/modules/intellij.kotlin.jupyter.tables.jar!/" />
+      <root url="jar://$APPLICATION_HOME_DIR$/plugins/kotlin-jupyter-plugin/lib/modules/intellij.kotlin.jupyter.debug.renders.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

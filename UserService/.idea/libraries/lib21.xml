@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="lib21">
+    <CLASSES>
+      <root url="jar://$APPLICATION_HOME_DIR$/plugins/webp/lib/libwebp.jar.jar!/" />
+      <root url="jar://$APPLICATION_HOME_DIR$/plugins/webp/lib/webp.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

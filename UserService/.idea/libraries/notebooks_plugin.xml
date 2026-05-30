@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="notebooks-plugin">
+    <CLASSES>
+      <root url="jar://$APPLICATION_HOME_DIR$/plugins/notebooks-plugin/lib/notebooks-plugin.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="flyway">
+    <CLASSES>
+      <root url="jar://$APPLICATION_HOME_DIR$/plugins/flyway/lib/flyway.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

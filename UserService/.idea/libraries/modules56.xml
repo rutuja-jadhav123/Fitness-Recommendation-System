@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="modules56">
+    <CLASSES>
+      <root url="jar://$APPLICATION_HOME_DIR$/plugins/platform-images/lib/modules/intellij.platform.images.copyright.jar!/" />
+      <root url="jar://$APPLICATION_HOME_DIR$/plugins/platform-images/lib/modules/intellij.platform.images.xdebugger.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="gateway-standalone">
+    <CLASSES>
+      <root url="jar://$APPLICATION_HOME_DIR$/plugins/gateway-plugin/lib/gateway-standalone/gateway.ssh.jar!/" />
+      <root url="jar://$APPLICATION_HOME_DIR$/plugins/gateway-plugin/lib/gateway-standalone/gateway.core.jar!/" />
+      <root url="jar://$APPLICATION_HOME_DIR$/plugins/gateway-plugin/lib/gateway-standalone/gateway.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

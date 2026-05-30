@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="lib3">
+    <CLASSES>
+      <root url="jar://$APPLICATION_HOME_DIR$/plugins/protoeditor/lib/google.protobuf.java.util.jar!/" />
+      <root url="jar://$APPLICATION_HOME_DIR$/plugins/protoeditor/lib/protoeditor.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

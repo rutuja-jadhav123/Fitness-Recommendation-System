@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="lib28">
+    <CLASSES>
+      <root url="jar://$APPLICATION_HOME_DIR$/plugins/clouds-kubernetes/lib/semver4j.jar!/" />
+      <root url="jar://$APPLICATION_HOME_DIR$/plugins/clouds-kubernetes/lib/okhttp.jar!/" />
+      <root url="jar://$APPLICATION_HOME_DIR$/plugins/clouds-kubernetes/lib/clouds-kubernetes.jar!/" />
+      <root url="jar://$APPLICATION_HOME_DIR$/plugins/clouds-kubernetes/lib/intellij.kubernetes.k8s.api.spec.jar!/" />
+      <root url="jar://$APPLICATION_HOME_DIR$/plugins/clouds-kubernetes/lib/kubernetes-client-java.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

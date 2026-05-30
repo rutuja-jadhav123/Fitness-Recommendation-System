@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="modules8">
+    <CLASSES>
+      <root url="jar://$APPLICATION_HOME_DIR$/plugins/gateway-plugin/lib/modules/intellij.gateway.terminal.jar!/" />
+      <root url="jar://$APPLICATION_HOME_DIR$/plugins/gateway-plugin/lib/modules/intellij.gateway.eel.jar!/" />
+      <root url="jar://$APPLICATION_HOME_DIR$/plugins/gateway-plugin/lib/modules/intellij.gateway.station.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

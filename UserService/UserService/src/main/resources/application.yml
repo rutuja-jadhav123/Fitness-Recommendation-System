@@ -1,0 +1,21 @@
+spring:
+  application:
+    name: UserService
+
+  datasource:
+    url: jdbc:postgresql://localhost:5432/FitnessMicroUser
+    username: postgres
+    password: admin
+
+  jpa:
+    hibernate:
+      ddl-auto: update
+    database-platform: org.hibernate.dialect.PostgreSQLDialect
+
+  Eureka:
+    client:
+      serviceUrl:
+        defaultZone: http://localhost:8761/Eureka/
+
+server:
+  port: 8081

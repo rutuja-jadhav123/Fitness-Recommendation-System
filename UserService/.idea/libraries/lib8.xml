@@ -1,0 +1,16 @@
+<component name="libraryTable">
+  <library name="lib8">
+    <CLASSES>
+      <root url="jar://$APPLICATION_HOME_DIR$/plugins/java/lib/debugger-memory-agent.jar!/" />
+      <root url="jar://$APPLICATION_HOME_DIR$/plugins/java/lib/kotlin-metadata.jar!/" />
+      <root url="jar://$APPLICATION_HOME_DIR$/plugins/java/lib/netty-codec-protobuf.jar!/" />
+      <root url="jar://$APPLICATION_HOME_DIR$/plugins/java/lib/java-impl.jar!/" />
+      <root url="jar://$APPLICATION_HOME_DIR$/plugins/java/lib/sa-jdwp.jar!/" />
+      <root url="jar://$APPLICATION_HOME_DIR$/plugins/java/lib/jb-jdi.jar!/" />
+      <root url="jar://$APPLICATION_HOME_DIR$/plugins/java/lib/jps-javac-extension.jar!/" />
+      <root url="jar://$APPLICATION_HOME_DIR$/plugins/java/lib/jps-launcher.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

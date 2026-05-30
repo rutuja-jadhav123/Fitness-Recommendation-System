@@ -1,0 +1,15 @@
+<component name="libraryTable">
+  <library name="modules50">
+    <CLASSES>
+      <root url="jar://$APPLICATION_HOME_DIR$/plugins/notebooks-plugin/lib/modules/intellij.scientific.tables.charts.jar!/" />
+      <root url="jar://$APPLICATION_HOME_DIR$/plugins/notebooks-plugin/lib/modules/intellij.notebooks.jupyter.core.jar!/" />
+      <root url="jar://$APPLICATION_HOME_DIR$/plugins/notebooks-plugin/lib/modules/intellij.notebooks.core.jar!/" />
+      <root url="jar://$APPLICATION_HOME_DIR$/plugins/notebooks-plugin/lib/modules/intellij.scientific.tables.jar!/" />
+      <root url="jar://$APPLICATION_HOME_DIR$/plugins/notebooks-plugin/lib/modules/intellij.notebooks.dataframe.jar!/" />
+      <root url="jar://$APPLICATION_HOME_DIR$/plugins/notebooks-plugin/lib/modules/intellij.notebooks.ui.jar!/" />
+      <root url="jar://$APPLICATION_HOME_DIR$/plugins/notebooks-plugin/lib/modules/intellij.notebooks.visualization.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

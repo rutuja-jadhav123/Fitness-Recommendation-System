@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="modules">
+    <CLASSES>
+      <root url="jar://$APPLICATION_HOME_DIR$/plugins/tasks/lib/modules/intellij.tasks.bugzilla.jar!/" />
+      <root url="jar://$APPLICATION_HOME_DIR$/plugins/tasks/lib/modules/intellij.tasks.trac.jar!/" />
+      <root url="jar://$APPLICATION_HOME_DIR$/plugins/tasks/lib/modules/intellij.tasks.jira.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

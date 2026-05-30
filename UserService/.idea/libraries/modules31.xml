@@ -1,0 +1,33 @@
+<component name="libraryTable">
+  <library name="modules31">
+    <CLASSES>
+      <root url="jar://$APPLICATION_HOME_DIR$/plugins/jupyter-plugin/lib/modules/intellij.jupyter.split.backend.py.jar!/" />
+      <root url="jar://$APPLICATION_HOME_DIR$/plugins/jupyter-plugin/lib/modules/intellij.jupyter.git.jar!/" />
+      <root url="jar://$APPLICATION_HOME_DIR$/plugins/jupyter-plugin/lib/modules/intellij.jupyter.py.dap.jar!/" />
+      <root url="jar://$APPLICATION_HOME_DIR$/plugins/jupyter-plugin/lib/modules/intellij.dataspell.jupyter.customCells.sql.common.jar!/" />
+      <root url="jar://$APPLICATION_HOME_DIR$/plugins/jupyter-plugin/lib/modules/intellij.jupyter.tables.jar!/" />
+      <root url="jar://$APPLICATION_HOME_DIR$/plugins/jupyter-plugin/lib/modules/intellij.jupyter.convert.jar!/" />
+      <root url="jar://$APPLICATION_HOME_DIR$/plugins/jupyter-plugin/lib/modules/intellij.jupyter.split.frontend.jar!/" />
+      <root url="jar://$APPLICATION_HOME_DIR$/plugins/jupyter-plugin/lib/modules/intellij.jupyter.split.frontend.py.jar!/" />
+      <root url="jar://$APPLICATION_HOME_DIR$/plugins/jupyter-plugin/lib/modules/intellij.jupyter.py.psi.jar!/" />
+      <root url="jar://$APPLICATION_HOME_DIR$/plugins/jupyter-plugin/lib/modules/intellij.dataspell.jupyter.customCells.sql.frontend.jar!/" />
+      <root url="jar://$APPLICATION_HOME_DIR$/plugins/jupyter-plugin/lib/modules/intellij.jupyter.py.pro.jar!/" />
+      <root url="jar://$APPLICATION_HOME_DIR$/plugins/jupyter-plugin/lib/modules/intellij.jupyter.github.jar!/" />
+      <root url="jar://$APPLICATION_HOME_DIR$/plugins/jupyter-plugin/lib/modules/intellij.jupyter.py.completion.ml.ranking.jar!/" />
+      <root url="jar://$APPLICATION_HOME_DIR$/plugins/jupyter-plugin/lib/modules/intellij.dataspell.jupyter.customCells.sql.backend.jar!/" />
+      <root url="jar://$APPLICATION_HOME_DIR$/plugins/jupyter-plugin/lib/modules/intellij.jupyter.core.jar!/" />
+      <root url="jar://$APPLICATION_HOME_DIR$/plugins/jupyter-plugin/lib/modules/intellij.jupyter.py.ift.jar!/" />
+      <root url="jar://$APPLICATION_HOME_DIR$/plugins/jupyter-plugin/lib/modules/intellij.jupyter.py.wsl.jar!/" />
+      <root url="jar://$APPLICATION_HOME_DIR$/plugins/jupyter-plugin/lib/modules/intellij.jupyter.py.jar!/" />
+      <root url="jar://$APPLICATION_HOME_DIR$/plugins/jupyter-plugin/lib/modules/intellij.jupyter.mcp.jar!/" />
+      <root url="jar://$APPLICATION_HOME_DIR$/plugins/jupyter-plugin/lib/modules/intellij.jupyter.psi.jar!/" />
+      <root url="jar://$APPLICATION_HOME_DIR$/plugins/jupyter-plugin/lib/modules/intellij.jupyter.split.common.jar!/" />
+      <root url="jar://$APPLICATION_HOME_DIR$/plugins/jupyter-plugin/lib/modules/intellij.jupyter.completion.jar!/" />
+      <root url="jar://$APPLICATION_HOME_DIR$/plugins/jupyter-plugin/lib/modules/intellij.jupyter.execution.jar!/" />
+      <root url="jar://$APPLICATION_HOME_DIR$/plugins/jupyter-plugin/lib/modules/intellij.jupyter.diff.jar!/" />
+      <root url="jar://$APPLICATION_HOME_DIR$/plugins/jupyter-plugin/lib/modules/intellij.jupyter.split.backend.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

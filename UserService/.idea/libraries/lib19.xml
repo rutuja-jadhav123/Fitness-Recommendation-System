@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="lib19">
+    <CLASSES>
+      <root url="jar://$APPLICATION_HOME_DIR$/plugins/repository-search/lib/package-search-api-client.jar!/" />
+      <root url="jar://$APPLICATION_HOME_DIR$/plugins/repository-search/lib/maven-model.jar!/" />
+      <root url="jar://$APPLICATION_HOME_DIR$/plugins/repository-search/lib/repository-search.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

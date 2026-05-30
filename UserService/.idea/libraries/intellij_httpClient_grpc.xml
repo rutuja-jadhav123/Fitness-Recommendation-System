@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="intellij.httpClient.grpc">
+    <CLASSES>
+      <root url="jar://$APPLICATION_HOME_DIR$/plugins/restClient/lib/modules/intellij.httpClient.grpc.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

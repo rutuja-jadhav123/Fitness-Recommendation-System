@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="lib7">
+    <CLASSES>
+      <root url="jar://$APPLICATION_HOME_DIR$/plugins/tasks/lib/commons-discovery.jar!/" />
+      <root url="jar://$APPLICATION_HOME_DIR$/plugins/tasks/lib/http-client.jar!/" />
+      <root url="jar://$APPLICATION_HOME_DIR$/plugins/tasks/lib/axis.jar!/" />
+      <root url="jar://$APPLICATION_HOME_DIR$/plugins/tasks/lib/tasks-core.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

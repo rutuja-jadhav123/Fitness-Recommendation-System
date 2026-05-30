@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="platform-daemon-plugin">
+    <CLASSES>
+      <root url="jar://$APPLICATION_HOME_DIR$/plugins/platform-daemon-plugin/lib/platform-daemon-plugin.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

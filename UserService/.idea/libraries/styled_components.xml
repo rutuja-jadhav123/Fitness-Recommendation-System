@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="styled-components">
+    <CLASSES>
+      <root url="jar://$APPLICATION_HOME_DIR$/plugins/styled-components/lib/styled-components.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

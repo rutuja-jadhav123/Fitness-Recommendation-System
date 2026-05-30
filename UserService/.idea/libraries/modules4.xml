@@ -1,0 +1,15 @@
+<component name="libraryTable">
+  <library name="modules4">
+    <CLASSES>
+      <root url="jar://$APPLICATION_HOME_DIR$/plugins/vuejs-plugin/lib/modules/intellij.vuejs.markdown.jar!/" />
+      <root url="jar://$APPLICATION_HOME_DIR$/plugins/vuejs-plugin/lib/modules/intellij.vuejs.backend.jar!/" />
+      <root url="jar://$APPLICATION_HOME_DIR$/plugins/vuejs-plugin/lib/modules/intellij.vuejs.copyright.jar!/" />
+      <root url="jar://$APPLICATION_HOME_DIR$/plugins/vuejs-plugin/lib/modules/intellij.vuejs.free.jar!/" />
+      <root url="jar://$APPLICATION_HOME_DIR$/plugins/vuejs-plugin/lib/modules/intellij.vuejs.common.jar!/" />
+      <root url="jar://$APPLICATION_HOME_DIR$/plugins/vuejs-plugin/lib/modules/intellij.vuejs.debugger.jar!/" />
+      <root url="jar://$APPLICATION_HOME_DIR$/plugins/vuejs-plugin/lib/modules/intellij.vuejs.prettier.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

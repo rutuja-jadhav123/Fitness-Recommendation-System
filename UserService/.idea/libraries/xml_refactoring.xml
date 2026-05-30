@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="xml-refactoring">
+    <CLASSES>
+      <root url="jar://$APPLICATION_HOME_DIR$/plugins/xml-refactoring/lib/xml-refactoring.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

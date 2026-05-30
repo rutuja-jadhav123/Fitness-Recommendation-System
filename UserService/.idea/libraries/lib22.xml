@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="lib22">
+    <CLASSES>
+      <root url="jar://$APPLICATION_HOME_DIR$/plugins/webDeployment/lib/commons vfs.jar!/" />
+      <root url="jar://$APPLICATION_HOME_DIR$/plugins/webDeployment/lib/commons-pool2.jar!/" />
+      <root url="jar://$APPLICATION_HOME_DIR$/plugins/webDeployment/lib/jackrabbit2.jar!/" />
+      <root url="jar://$APPLICATION_HOME_DIR$/plugins/webDeployment/lib/commons-net.jar!/" />
+      <root url="jar://$APPLICATION_HOME_DIR$/plugins/webDeployment/lib/webDeployment.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="modules28">
+    <CLASSES>
+      <root url="jar://$APPLICATION_HOME_DIR$/plugins/platform-daemon-plugin/lib/modules/intellij.platform.daemon.connection.jar!/" />
+      <root url="jar://$APPLICATION_HOME_DIR$/plugins/platform-daemon-plugin/lib/modules/intellij.libraries.daemon.client.jar!/" />
+      <root url="jar://$APPLICATION_HOME_DIR$/plugins/platform-daemon-plugin/lib/modules/intellij.platform.daemon.client.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

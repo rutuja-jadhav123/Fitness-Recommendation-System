@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="module-descriptors">
+    <CLASSES>
+      <root url="jar://$APPLICATION_HOME_DIR$/modules/module-descriptors.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="maven36-server">
+    <CLASSES>
+      <root url="jar://$APPLICATION_HOME_DIR$/plugins/maven/lib/intellij.maven.server36/maven36-server.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

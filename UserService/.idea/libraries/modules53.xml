@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="modules53">
+    <CLASSES>
+      <root url="jar://$APPLICATION_HOME_DIR$/plugins/flyway/lib/modules/intellij.flyway.diff.jar!/" />
+      <root url="jar://$APPLICATION_HOME_DIR$/plugins/flyway/lib/modules/intellij.flyway.jpa.jar!/" />
+      <root url="jar://$APPLICATION_HOME_DIR$/plugins/flyway/lib/modules/intellij.flyway.core.jar!/" />
+      <root url="jar://$APPLICATION_HOME_DIR$/plugins/flyway/lib/modules/intellij.flyway.orm.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

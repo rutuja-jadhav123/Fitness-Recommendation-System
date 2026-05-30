@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="lib27">
+    <CLASSES>
+      <root url="jar://$APPLICATION_HOME_DIR$/plugins/javaee-appServers-tomcat/lib/javaee-appServers-tomcat.jar!/" />
+      <root url="jar://$APPLICATION_HOME_DIR$/plugins/javaee-appServers-tomcat/lib/intellij.tomcat.inspector.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

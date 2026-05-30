@@ -1,0 +1,14 @@
+<component name="libraryTable">
+  <library name="modules9">
+    <CLASSES>
+      <root url="jar://$APPLICATION_HOME_DIR$/plugins/searchEverywhereMl/lib/modules/intellij.searchEverywhereMl.ranking.vcs.jar!/" />
+      <root url="jar://$APPLICATION_HOME_DIR$/plugins/searchEverywhereMl/lib/modules/intellij.searchEverywhereMl.typos.jar!/" />
+      <root url="jar://$APPLICATION_HOME_DIR$/plugins/searchEverywhereMl/lib/modules/intellij.searchEverywhereMl.ranking.yaml.jar!/" />
+      <root url="jar://$APPLICATION_HOME_DIR$/plugins/searchEverywhereMl/lib/modules/intellij.searchEverywhereMl.ranking.ext.jar!/" />
+      <root url="jar://$APPLICATION_HOME_DIR$/plugins/searchEverywhereMl/lib/modules/intellij.searchEverywhereMl.ranking.java.jar!/" />
+      <root url="jar://$APPLICATION_HOME_DIR$/plugins/searchEverywhereMl/lib/modules/intellij.searchEverywhereMl.ranking.core.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

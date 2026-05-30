@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="aopCommon">
+    <CLASSES>
+      <root url="jar://$APPLICATION_HOME_DIR$/plugins/aopCommon/lib/aopCommon.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

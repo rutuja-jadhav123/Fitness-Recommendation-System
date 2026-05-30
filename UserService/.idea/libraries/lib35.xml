@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="lib35">
+    <CLASSES>
+      <root url="jar://$APPLICATION_HOME_DIR$/plugins/microservices-jvm/lib/jetbrains.intellij.deps.scheduled.debugger.agent.jar!/" />
+      <root url="jar://$APPLICATION_HOME_DIR$/plugins/microservices-jvm/lib/microservices-jvm.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

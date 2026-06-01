@@ -1,16 +1,15 @@
+spring:
+  application:
+    name: aiservice
 
-  spring:
-    application:
-      name: aiservice
+  mongodb:
+    uri: mongodb://localhost:27017/airecommendation
+    database: airecommendation
 
-    mongodb:
-      uri: mongodb://localhost:27017/airecommendation
-      database: airecommendation
+server:
+  port: 8084
 
-  eureka:
-    client:
-      service-url:
-        defaultZone: http://localhost:8761/eureka/
-
-  server:
-    port: 8083
+eureka:
+  client:
+    service-url:
+      defaultZone: http://localhost:8761/eureka/
